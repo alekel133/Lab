@@ -1,5 +1,6 @@
 # Welcome to My Infrastructure Lab Repo
-The source of information for all things related to my Home Lab.
+The source of information for all things related to my Home Lab. To see what I am currently workintg on vist:
+[my roadmap](./roadmap.md).
 
 ## Why make this repo?
 I wanted a versioned source of truth for my configurations and experiments that I could share across devices. I am also hoping that my progress
