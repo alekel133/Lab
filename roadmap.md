@@ -3,8 +3,8 @@ This is the brief breakdown and stages of how I expect my lab to progress.
 
 ## Stage 0: Stable Backplane
 - Design overall network layout
- 1. Decide on naming scheme for devices
- 2. Design VLAN map.
+ 1. ~~Decide on naming scheme for devices.~~
+ 2. ~~Design VLAN map.~~
  3. Configure all devices with management interfaces and appropriate IP Addresses.
 
 - Test Continuity
