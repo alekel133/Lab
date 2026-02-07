@@ -9,6 +9,7 @@
 
 ## Active VLANs
 - 999 - Management VLAN - 172.16.0.0/24 <!-- Currently, may grow -->
+- 899 - Server VLAN - 10.200.0.0/24
 
 ## VLAN Maintenance Policy
 All VLAN configuration changes must follow the below rules:
