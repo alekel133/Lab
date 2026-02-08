@@ -8,6 +8,7 @@
 - 172.30.0.0-172.31.255.255 - Reserved for P2P, no VLAN assignment.
 
 ## Active VLANs
+- 1000 - Native VLAN - *DO NOT USE*
 - 999 - Management VLAN - 172.16.0.0/24 <!-- Currently, may grow -->
 - 899 - Server VLAN - 10.200.0.0/24
 
