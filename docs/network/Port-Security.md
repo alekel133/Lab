@@ -5,7 +5,7 @@
 - Date: 2026-02-07
 
 ## All
-1. All unused ports/interfaces on networked devices are to be disabled/shutdown and set to native VLAN.
+1. All unused ports/interfaces on networked devices are to be disabled/shutdown and set to VLAN 1.
 2. All Management VLAN ports are to be limnited to a single MAC Address:
    - This prevents random user's from accessing this network
    - This forces documented changes in management access.
